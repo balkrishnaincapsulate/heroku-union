@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission\/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.incapsulate.dept.internal.demo",
+      "sha256_cert_fingerprints": [
+        "35:B1:23:58:CA:63:B3:64:4A:BA:0B:7D:FB:BE:26:F0:A3:C9:59:0D:A9:AE:9E:B1:6A:85:71:64:51:4D:CD:E9"
+      ]
+    }
+  }
+]
