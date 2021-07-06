@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 const password = process.env.ORG_TOKEN ? process.env.ORG_PASSWORD + process.env.ORG_TOKEN : process.env.ORG_PASSWORD;
 
 module.exports = {
